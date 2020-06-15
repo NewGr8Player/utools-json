@@ -1,0 +1,18 @@
+{
+  "pluginName": "JsonTreeView",
+  "description": "格式化显示树形Json工具",
+  "main": "index.html",
+  "version": "0.1.0",
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "JsonTreeView",
+      "explain": "JsonTreeView",
+      "cmds": [
+        "Json",
+        "JsonTree",
+        "JsonTreeView"
+      ]
+    }
+  ]
+}
