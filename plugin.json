@@ -1,4 +1,6 @@
 {
+  "author": "NewGr8Player",
+  "homepage": "https://newgr8player.top",
   "pluginName": "JsonTreeView",
   "description": "格式化显示树形Json工具",
   "main": "index.html",
